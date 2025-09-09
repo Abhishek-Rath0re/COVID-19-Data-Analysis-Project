@@ -1,0 +1,30 @@
+Objective
+Download and perform initial data exploration using Excel to understand the dataset structure and identify key metrics.
+Tasks
+1. Data Download
+
+Visit Our World in Data COVID-19
+Download the complete COVID-19 dataset (CSV format)
+Import into Excel and save as covid_data_raw.xlsx
+
+2. Initial Data Exploration
+
+Use Excel functions to explore dataset dimensions
+Create summary statistics using COUNTIF, SUMIF, AVERAGE
+Identify missing values and data quality issues
+Document findings in a separate worksheet
+
+3. Basic Analysis in Excel
+Create the following analyses:
+
+Top 10 countries by total cases (using LARGE and INDEX/MATCH)
+Monthly case trends for major countries (pivot tables)
+Case fatality rates by continent (calculated fields)
+Vaccination progress timeline (line charts)
+
+4. Excel Deliverables
+
+Clean dataset with documented assumptions
+Summary dashboard with key metrics
+Pivot tables showing trends by region/time
+Initial insights document
